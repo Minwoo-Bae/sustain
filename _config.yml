@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -16,7 +16,7 @@ baseurl: /sustain/
 title: Minwoo Bae
 author: Minwoo Bae
 description: Personal hompage 
-avatar: sustain/static/minwoo_nymphs.png
+avatar: http://minwoo-bae.github.io/sustain/static/minwoo_nymphs.png
 email: minwoo@mit.edu
 github: minwoo-bae/sustain # username
 twitter: 
