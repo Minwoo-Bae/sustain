@@ -114,6 +114,8 @@ body {
   text-align: left;
   line-height: 30px;
   font-size: 22px;
+  font-family: 'Georgia', serif;
+  margin-top: 10px;
 }
 .panel-default h5 {
   text-align: left;
